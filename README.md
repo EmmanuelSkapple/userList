@@ -1,4 +1,4 @@
-# userListhttps://github.com/EmmanuelSkapple/userList/archive/refs/heads/main.zip React Native con Expo
+# userList: React Native con Expo
 
 Este repositorio contiene el código fuente de mi aplicación React Native desarrollada con Expo. Aquí tienes los pasos para ver y probar la aplicación en tu dispositivo móvil.
 
